@@ -6,7 +6,7 @@ Cybersecurity professional with hands-on experience in application security test
 
 ## What I Do
 
-I break web applications to make them stronger. My work spans the full offensive security lifecycle — from reconnaissance and vulnerability discovery through exploitation, reporting, and remediation guidance. At HCLTech, I work across AppSec, cloud security, and incident response for enterprise clients.
+I break web applications to make them stronger. My work spans the full offensive security lifecycle from reconnaissance and vulnerability discovery through exploitation, reporting, and remediation guidance. At HCLTech, I work across AppSec, cloud security, and incident response for enterprise clients.
 
 ## Technical Skills
 
