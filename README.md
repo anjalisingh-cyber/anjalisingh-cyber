@@ -1,16 +1,52 @@
-## Hi there 👋
+# Anjali Singh
 
-<!--
-**anjalisingh-cyber/anjalisingh-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Engineer | MSc Ethical Hacking (Abertay University) | Application Security & Penetration Testing**
 
-Here are some ideas to get you started:
+Cybersecurity professional with hands-on experience in application security testing, cloud security, and incident response. Currently based in Scotland, UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+I break web applications to make them stronger. My work spans the full offensive security lifecycle — from reconnaissance and vulnerability discovery through exploitation, reporting, and remediation guidance. At HCLTech, I work across AppSec, cloud security, and incident response for enterprise clients.
+
+## Technical Skills
+
+**Penetration Testing & Offensive Security**
+Burp Suite · OWASP ZAP · Nmap · Nikto · SQLMap · Hydra · Metasploit · DirBuster · Kali Linux
+
+**Vulnerability Classes**
+SQL Injection · Cross-Site Scripting (Reflected, Stored, DOM-based) · IDOR · CSRF · Directory Traversal · Clickjacking · Broken Authentication · Insecure Cryptography · File Upload Bypass · Session Hijacking
+
+**Frameworks & Methodologies**
+OWASP Testing Guide · OWASP Top 10 · PTES · CVSS Scoring · NIST CSF · MITRE ATT&CK
+
+**Cloud & Infrastructure**
+AWS Security · Azure Security · IAM Policy Review · Security Group Auditing · Cloud Configuration Assessment
+
+**Languages & Scripting**
+Python · Bash · SQL · PHP · JavaScript (security context)
+
+## Certifications & Education
+
+🎓 **MSc Ethical Hacking** — Abertay University, Dundee, Scotland
+🔐 Currently pursuing further industry certifications
+
+## Projects
+
+| Repository | Description |
+|---|---|
+| [Web-Application-Pentest-Report](https://github.com/anjalisingh-cyber/Web-Application-Pentest-Report) | Full OWASP methodology penetration test against an e-commerce application — SQLi to admin compromise, XSS, IDOR, and 15+ vulnerability findings with remediation guidance |
+
+*More projects in progress — check back soon.*
+
+## Currently Working On
+
+- Building automated security scanning scripts (Python + Bash)
+- Documenting cloud security misconfigurations lab work
+- Contributing to OWASP community resources
+
+## Connect
+
+[![LinkedIn](www.linkedin.com/in/anjali-singh-567449149)
+[![Email](singhanjali7780@gmail.com)
+---
+*Open to cybersecurity roles in the UK. Eligible to work in the UK.*
